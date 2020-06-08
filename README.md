@@ -25,7 +25,7 @@ Flutter main programming language is Dart. Dart is a programming language from G
 
 - [Dart Language Tour](https://dart.dev/guides/language/language-tour)
 
-- [Excersim - Learn Dart the practical way]([https://exercism.io/tracks/dart](https://exercism.io/tracks/dart)
+- [Excersim - Learn Dart the practical way](https://exercism.io/tracks/dart)
 
 ### Requirements
 
