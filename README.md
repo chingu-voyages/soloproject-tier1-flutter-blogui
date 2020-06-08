@@ -19,7 +19,8 @@ General instructions for all Pre-Work Projects can be also found in the [Chingu 
 
 ### For Beginners in Dart and Flutter
 
-Flutter main programming language is Dart. Dart is a programming language from Google primarily focused on performance and UI design so it is perfect for Flutter development. If you have never worked with Dart, I would recommend you to take a look into the following resources.
+The primary programming language in Flutter is Dart. Dart is a programming language from Google primarily focused on performance and UI design, so it is perfect for Flutter development. If you have never worked with Dart, I would recommend you to take a look into the following resources.
+
 
 - [How to install Dart](https://dart.dev/get-dart)
 
