@@ -12,10 +12,13 @@ Material Design to make the first steps in Flutter as smooth as possible.
 
 ## Instructions
 
-For this project you must use the Dart Language and the Flutter Framework.
-You are encouraged to use Animations, Media Queries and all other possibilities of Flutter.
+For this project you are encouraged to use the Dart Language and the Flutter 
+framework. However, it's okay if you prefer another programming language and
+framework. If you build this using Flutter you are encouraged to use Animations, 
+Media Queries and all other features of Flutter.
 
-General instructions for all Pre-Work Projects can be also found in the [Chingu Library](https://docs.chingu.io/voyage/soloproj/choose/#solo-project-specifications)
+General instructions for all Pre-Work Projects can be also found in your 
+Chingu Handbook.
 
 ### For Beginners in Dart and Flutter
 
